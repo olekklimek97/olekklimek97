@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 80" width="720" height="80">
+  <style>
+    .base {
+      font-family: 'Orbitron', 'Segoe UI', system-ui, sans-serif;
+      font-weight: 700;
+      font-size: 36px;
+      fill: #ffffff;
+    }
+    .strike {
+      fill: #FF10F0;
+      text-decoration: line-through;
+    }
+  </style>
+  <text x="360" y="50" text-anchor="middle" class="base">
+    Hi, I'm Olek, <tspan class="strike">Senior</tspan> Junior developer 👋
+  </text>
+</svg>
