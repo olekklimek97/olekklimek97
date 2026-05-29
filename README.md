@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Hi, I'm Olek, Senior Junior developer" />
+  <img src="assets/header.gif" alt="Hi, I'm Olek, Senior Junior developer" />
 </p>
 
 <p align="center">
